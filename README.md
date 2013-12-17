@@ -5,5 +5,5 @@ New website for http://thepublicschool.org well at the very least http://bayarea
 
 Check out:
 
-* [The Wiki](wiki)
-* [The Issues](issues)
+* [The Wiki](https://github.com/wrought/new-public-school/wiki)
+* [The Issues](https://github.com/wrought/new-public-school/issues)
